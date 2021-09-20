@@ -12,6 +12,8 @@
         "prettier": "prettier --write '**/*.{js,jsx,ts,tsx}'"
     },
     "dependencies": {
+        "@headlessui/react": "^1.4.1",
+        "@heroicons/react": "^1.0.4",
         "@n8tb1t/use-scroll-position": "^2.0.3",
         "@next/bundle-analyzer": "^11.1.2",
         "@tailwindcss/forms": "^0.3.3",
@@ -57,7 +59,8 @@
         "sass": "^1.32.5",
         "slick-carousel": "^1.8.1",
         "styled-components": "^5.3.1",
-        "styled-system": "^5.1.5"
+        "styled-system": "^5.1.5",
+        "tailwindcss-rtl": "^0.7.3"
     },
     "devDependencies": {
         "@svgr/cli": "^5.5.0",
