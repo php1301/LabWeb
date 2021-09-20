@@ -3,7 +3,7 @@ import React from "react";
 import { Container, Header, Main, Footer, Cards } from "@components";
 
 const Home: React.FC = () => {
-    console.log("Branch Huy");
+    console.log("Branch Nguyen");
     return (
         <Container>
             <Header />
