@@ -17,6 +17,7 @@
         "@n8tb1t/use-scroll-position": "^2.0.3",
         "@next/bundle-analyzer": "^11.1.2",
         "@tailwindcss/forms": "^0.3.3",
+        "add": "^2.0.6",
         "aos": "^3.0.0-beta.6",
         "axios": "^0.21.1",
         "bootstrap": "^5.1.1",
@@ -60,7 +61,8 @@
         "slick-carousel": "^1.8.1",
         "styled-components": "^5.3.1",
         "styled-system": "^5.1.5",
-        "tailwindcss-rtl": "^0.7.3"
+        "tailwindcss-rtl": "^0.7.3",
+        "yarn": "^1.22.11"
     },
     "devDependencies": {
         "@svgr/cli": "^5.5.0",

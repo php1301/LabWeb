@@ -1,7 +1,13 @@
-import { Navbar } from "@components/lab1/navbar";
+import Body from "@components/lab1/body";
+import NavBar from "@components/lab1/navbar";
 import React from "react";
-const Lab1 = () => {
-    return <Navbar />;
-};
 
-export default Lab1;
+const lab1 = () => {
+    return (
+        <div>
+            <NavBar />
+            <Body />
+        </div>
+    );
+};
+export default lab1;

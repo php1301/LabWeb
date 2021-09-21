@@ -10,6 +10,8 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 // base css file
 import "@styles/tailwind.css";
+import "@styles/Lab1/styles.css";
+
 const Noop: React.FC = ({ children }) => <>{children}</>;
 
 function MyApp({ Component, pageProps }: AppProps): JSX.Element {

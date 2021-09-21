@@ -39,7 +39,7 @@
             "@utils/*": ["src/utils/*"]
         }
     },
-    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+    "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/Lab1/lab1.jsx"],
     "exclude": [
         "node_modules",
         "__generated__/globalTypes.ts",
