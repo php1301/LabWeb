@@ -1,6 +1,5 @@
 # DoAnWeb
 
-
 This project was generated with [superplate](https://github.com/pankod/superplate).
 
 ## Getting Started
