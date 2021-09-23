@@ -7,6 +7,7 @@ import { ReactQueryDevtools } from "react-query/devtools";
 import { Hydrate } from "react-query/hydration";
 import { ToastContainer } from "react-toastify";
 
+
 import "react-toastify/dist/ReactToastify.css";
 // base css file
 import "@styles/tailwind.css";

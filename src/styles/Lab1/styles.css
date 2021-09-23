@@ -23,6 +23,7 @@ html{
     flex: 2;
 }
 
+
 .flex-3{
     flex: 3;
 }
@@ -30,7 +31,9 @@ html{
 .flex-4{
     flex: 4;
 }
-
+.activebtn{
+    background-image: var(--color-br_btn);
+}
 /* Navbar */
 .contact_button li{
     font-weight: bold;
@@ -80,7 +83,7 @@ html{
 }
 .Main_new--img img{
     width: 100%;
-    height: 100%;
+    height: 120%;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
 }
@@ -96,7 +99,8 @@ html{
     padding: 20px;
 }
 .Main_new{
-    height: 250px;
+    height: 280px;
+    overflow: hidden;
     border-radius: 20px;
     margin-bottom: 20px;
 }
@@ -153,6 +157,7 @@ html{
     font-weight: bold;
     border-radius: 10px;
     color: white;
+    height: 40px;
 }
 .btn_items li:first-child{
     border-top-left-radius: 5px;
@@ -178,7 +183,8 @@ padding: 30px;
 .Iteam img{
     height: 150px;
     width: 100%;
-    border-radius: 20px;
+    overflow: hidden;
+    border-radius: 10px;
     border: 5px solid #c4c4c4;
 }
 /* footer */
@@ -197,7 +203,7 @@ padding: 15px;
 }
 
 .padding_lf_ri-15{
-    padding: 0 15px;
+    padding: 0 30px;
 }
 .title_footer{
     text-align: center;
@@ -209,6 +215,9 @@ padding: 15px;
     line-height: 40px;
    font-style: italic;
    color: white;
+}
+.note{
+    padding: 15px 0;
 }
 .link_lienket ul{
     display: flex;
@@ -226,4 +235,22 @@ padding: 15px;
 }
 .footer-last{
 text-align: center;
+margin: 15px;
+}
+.link_contact ul{
+    list-style: none;
+    padding: 10px 30px 10px 0;
+}
+.btnjoin{
+    box-shadow: 1px 10px 20px -7px #695a5a;
+	background-image: linear-gradient(rgb(143, 138, 138), rgb(92, 62, 62));
+	border-radius:7px;
+	color:#ffffff;
+	font-size:13px;
+	font-weight:bold;
+	padding:10px 22px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #8b8b8a80;
+    width: 230px;
+    justify-content: space-around;
 }

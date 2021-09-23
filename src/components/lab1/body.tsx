@@ -7,7 +7,7 @@ function Body(props) {
                 <div className="NewPages flex-3 ">
                     <div className="Main_new flex">
                         <div className="Main_new--img flex-2 ">
-                            <img src="./img/logo2.png" alt="" />
+                            <img src="./img/sutu.jpg" alt="" />
                         </div>
                         <div className="Main_new--content flex-1">
                             <div className="content_Tile">
@@ -36,7 +36,7 @@ function Body(props) {
 
                             <div className="content_numPage">
                                 <ul className="flex">
-                                    <li>1</li>
+                                    <li className="activebtn">1</li>
                                     <li>2</li>
                                     <li>3</li>
                                     <li>4</li>
@@ -70,7 +70,7 @@ function Body(props) {
                             </p>
                         </div>
                         <div className="flex-1">
-                            <img src="./img/logo2.png" alt="" />
+                            <img src="./img/chuphinh.png" alt="" />
                         </div>
                     </div>
                     <div className="btn btn_items">
@@ -84,7 +84,7 @@ function Body(props) {
                         <div className="Iteam">
                             <div className="Iteam_img">
                                 {" "}
-                                <img src="./img/logo2.png" alt="" />
+                                <img src="./img/convoi.jpg" alt="" />
                             </div>
                             <h4>
                                 <b>Loream ipsurm dolor</b>
@@ -97,7 +97,7 @@ function Body(props) {
                         <div className="Iteam">
                             <div className="Iteam_img">
                                 {" "}
-                                <img src="./img/logo2.png" alt="" />
+                                <img src="./img/rung.jpg" alt="" />
                             </div>
                             <h4>
                                 <b>Loream ipsurm dolor</b>
@@ -110,7 +110,7 @@ function Body(props) {
                         <div className="Iteam">
                             <div className="Iteam_img">
                                 {" "}
-                                <img src="./img/logo2.png" alt="" />
+                                <img src="./img/nuibang.jpg" alt="" />
                             </div>
                             <h4>
                                 <b>Loream ipsurm dolor</b>
@@ -123,7 +123,7 @@ function Body(props) {
                         <div className="Iteam">
                             <div className="Iteam_img">
                                 {" "}
-                                <img src="./img/logo2.png" alt="" />
+                                <img src="./img/conho.jpg" alt="" />
                             </div>
                             <h4>
                                 <b>Loream ipsurm dolor</b>
@@ -136,7 +136,7 @@ function Body(props) {
                         <div className="Iteam">
                             <div className="Iteam_img">
                                 {" "}
-                                <img src="./img/logo2.png" alt="" />
+                                <img src="./img/chuot-tui.jpg" alt="" />
                             </div>
                             <h4>
                                 <b>Loream ipsurm dolor</b>
@@ -149,7 +149,7 @@ function Body(props) {
                         <div className="Iteam">
                             <div className="Iteam_img">
                                 {" "}
-                                <img src="./img/logo2.png" alt="" />
+                                <img src="./img/song.jpg" alt="" />
                             </div>
                             <h4>
                                 <b>Loream ipsurm dolor</b>
