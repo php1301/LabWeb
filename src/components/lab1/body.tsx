@@ -99,12 +99,14 @@ function Body(props) {
                                 {" "}
                                 <img src="./img/rung.jpg" alt="" />
                             </div>
-                            <h4>
-                                <b>Loream ipsurm dolor</b>
-                            </h4>
+                            <div className="color_green"><h4>
+                                <b>Sed diam nonummy</b>
+                            </h4></div>
+                            
                             <p>
-                                Lorem ipsum dolor sit amet consectetuer
-                                adipiscing elit, sed diam nonummy nibh.
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, magni? Consequatur 
+                                laudantium architecto aspernatur ratione explicabo, repellat, nemo exercitationem cupiditate 
+                                
                             </p>
                         </div>
                         <div className="Iteam">
@@ -113,7 +115,7 @@ function Body(props) {
                                 <img src="./img/nuibang.jpg" alt="" />
                             </div>
                             <h4>
-                                <b>Loream ipsurm dolor</b>
+                                <b>Nam liber tempor</b>
                             </h4>
                             <p>
                                 Lorem ipsum dolor sit amet consectetuer
@@ -126,11 +128,12 @@ function Body(props) {
                                 <img src="./img/conho.jpg" alt="" />
                             </div>
                             <h4>
-                                <b>Loream ipsurm dolor</b>
+                                <b>Ut wisi enim</b>
                             </h4>
                             <p>
-                                Lorem ipsum dolor sit amet consectetuer
-                                adipiscing elit, sed diam nonummy nibh.
+                                Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                                Odio temporibus, quidem aspernatur ea sequi reprehenderit 
+                                consectetur autem aliquam saepe recusandae eligendi asperiores 
                             </p>
                         </div>
                         <div className="Iteam">
@@ -139,7 +142,7 @@ function Body(props) {
                                 <img src="./img/chuot-tui.jpg" alt="" />
                             </div>
                             <h4>
-                                <b>Loream ipsurm dolor</b>
+                                <b>Duis autem vel</b>
                             </h4>
                             <p>
                                 Lorem ipsum dolor sit amet consectetuer
@@ -152,7 +155,7 @@ function Body(props) {
                                 <img src="./img/song.jpg" alt="" />
                             </div>
                             <h4>
-                                <b>Loream ipsurm dolor</b>
+                                <b>Eodem modo typi</b>
                             </h4>
                             <p>
                                 Lorem ipsum dolor sit amet consectetuer
@@ -180,7 +183,7 @@ function Body(props) {
                                 <select name="mucgia" id="mucgia">
                                     <option> Chọn mức giá</option>
                                 </select>
-                                <button type="submit"> SEARCH HOLIDAY</button>
+                                <button className="classbutton" type="submit"> SEARCH HOLIDAY</button>
                             </form>
                         </div>
 
