@@ -190,7 +190,8 @@ html{
 }
 .Iteam{
     
-padding: 30px;
+padding: 30px;   
+cursor: pointer;
 }
 .Iteam img{
     height: 150px;
