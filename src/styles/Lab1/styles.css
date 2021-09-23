@@ -104,6 +104,9 @@ html{
     border-radius: 20px;
     margin-bottom: 20px;
 }
+.chuphinh{
+    margin-top: -40px;
+}
 /* body search */
 .Holiday_form select{
     width: 100%;

@@ -69,7 +69,7 @@ function Body(props) {
                                 </strong>
                             </p>
                         </div>
-                        <div className="flex-1">
+                        <div className="flex-1 chuphinh">
                             <img src="./img/chuphinh.png" alt="" />
                         </div>
                     </div>
