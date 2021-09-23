@@ -6,10 +6,7 @@ const Home: React.FC = () => {
     console.log("Branch Nguyen");
     return (
         <Container>
-            <Header />
-            <Main />
             <Cards />
-            <Footer />
         </Container>
     );
 };
