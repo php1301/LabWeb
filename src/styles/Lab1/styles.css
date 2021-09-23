@@ -99,6 +99,9 @@ html{
     padding: 10px;
     color: white;
 }
+.body li{
+	cursor: pointer;
+}
 
 .NewPages {
     padding: 20px;
