@@ -5,7 +5,7 @@ const NavBar = () => {
         <>
             <div className="NavBar flex justify-between">
                 <div className="NavBar_logo">
-                    <img src="./img/logo3.png" alt="" />
+                    <img src="./img/user.png" alt="" />
                 </div>
                 <div className="NavBar_contact">
                     <div className="contact_text text-right">
