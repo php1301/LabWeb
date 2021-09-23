@@ -41,6 +41,7 @@ html{
      margin: 0 2px;
      border-radius: 10px;
   color: #5fa15a;
+	cursor: pointer;
 }
 .btn ul{
     border-radius: 10px;
@@ -57,6 +58,9 @@ html{
 .Nav_control .control_btn li{
     color: white;
 }
+.Nav_control {
+    margin: 10px 0;
+}
 
 .text_spc{
    color: rgb(106, 191, 212);
@@ -70,6 +74,7 @@ html{
 .control_btn li{
     padding: 10px;
     margin: 2px;
+   cursor: pointer;
 }
 .control_btn{
     font-weight: bold;
