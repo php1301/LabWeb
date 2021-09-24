@@ -168,7 +168,7 @@ function Body(props) {
                 <div className="Search flex-1">
                     <section className="m-7">
                         <div className="Holiday_form ">
-                            <h3> <b>HOLIDAY SEARCH</b></h3>
+                            <h3> HOLIDAY SEARCH</h3>
                             <p>Chọn nơi bạn muốn tham quan</p>
                             <form action="">
                                 <select name="khuvuc" id="khuvuc">
@@ -188,7 +188,7 @@ function Body(props) {
                         </div>
 
                         <div className="Quick_form">
-                            <h3><b>QUICK SEARCH</b></h3>
+                            <h3><QUICK SEARCH</h3>
                             <p>Tìm thông tin nơi bạn tham quan :</p>
                             <form className="flex justify-between" action="">
                                 <input
@@ -205,7 +205,7 @@ function Body(props) {
                     <section>
                         <div className="Newsletter_form">
                             <div className="m-7">
-                                <h3><b>NEWSLETTER SIGNUP</b></h3>
+                                <h3>NEWSLETTER SIGNUP</h3>
                                 <p>
                                     Lorem ipsum dolor sit amet, Lorem ipsum
                                     dolor sit amet
@@ -238,7 +238,7 @@ function Body(props) {
                     <section>
                         <div className="LatestNews m-7">
                             <div>
-                                <h3><b>LASTEST NEWS</b></h3>
+                                <h3>LASTEST NEWS</h3>
                             </div>
 
                             <div>
