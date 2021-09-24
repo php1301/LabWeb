@@ -188,8 +188,8 @@ function Body(props) {
                         </div>
 
                         <div className="Quick_form">
-                            <h3><QUICK SEARCH </h3>
-                            <p>Tìm thông tin nơi bạn tham quan :</p>
+                            <h3>QUICK SEARCH  </h3>
+                            <p> Tìm thông tin nơi bạn tham quan :</p>
                             <form className="flex justify-between" action="">
                                 <input
                                     type="text"
