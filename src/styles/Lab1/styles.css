@@ -116,6 +116,23 @@ html{
     margin-top: -60px;
 }
 /* body search */
+button.classbutton::after {
+    background-image: var(--color-br_btn);
+    content: "";
+    -webkit-transform: rotate(45deg);
+    width: 31px;
+    height: 31px;
+    top: 5px;
+    right: -14px;
+    position: absolute;
+    border-radius: 6px;
+    z-index: -1;
+}
+button.classbutton {
+    position: relative;
+    border-radius: 10px 0 0 10px;
+    z-index: 0;
+}
 .Holiday_form select{
     width: 100%;
     margin: 15px 10px;
