@@ -128,7 +128,7 @@ button.classbutton::after {
     border-radius: 6px;
     z-index: -1;
 }
-button.classbutton {
+.body button.classbutton {
     position: relative;
     border-radius: 10px 0 0 10px;
     z-index: 0;
