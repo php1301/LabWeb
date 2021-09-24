@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 :root{
-    --color-br_btn:linear-gradient(#b3c2b1,#18610b) ;
-    --color-btn:#127012;
+    --color-br_btn:linear-gradient(#b3c2b1,#1f800f) ;
+    --color-btn:#129712;
 }
 html{
  

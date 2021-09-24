@@ -242,8 +242,8 @@ function Body(props) {
                             </div>
 
                             <div>
-                                <h3 className="Latest_Title">
-                                    Dolor sit amet ipsum dolor
+                                <h3 className="Latest_Title color_green">
+                                   <b> Dolor sit amet ipsum dolor</b>
                                 </h3>
                                 <p>
                                     Lorem iplum dolor sit amer, consectetuer
@@ -254,7 +254,8 @@ function Body(props) {
                             </div>
                             <div>
                                 <h3 className="Latest_Title">
-                                    Dolor sit amet ipsum dolor
+                                    <b> Dolor sit amet ipsum dolor </b>
+                                    
                                 </h3>
                                 <p>
                                     Lorem iplum dolor sit amer, consectetuer
@@ -265,7 +266,7 @@ function Body(props) {
                             </div>
                             <div>
                                 <h3 className="Latest_Title">
-                                    Dolor sit amet ipsum dolor
+                                <b> Dolor sit amet ipsum dolor </b>
                                 </h3>
                                 <p>
                                     Lorem iplum dolor sit amer, consectetuer
