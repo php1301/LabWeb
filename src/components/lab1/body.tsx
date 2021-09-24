@@ -265,7 +265,7 @@ function Body(props) {
                                 </p>
                             </div>
                             <div>
-                                <h3 className="Latest_Title">
+                                <h3  className="Latest_Title">
                                 <b> Dolor sit amet ipsum dolor </b>
                                 </h3>
                                 <p>
