@@ -168,7 +168,7 @@ function Body(props) {
                 <div className="Search flex-1">
                     <section className="m-7">
                         <div className="Holiday_form ">
-                            <h3> HOLIDAY SEARCH</h3>
+                            <h3> HOLIDAY SEARCH </h3>
                             <p>Chọn nơi bạn muốn tham quan</p>
                             <form action="">
                                 <select name="khuvuc" id="khuvuc">
@@ -188,7 +188,7 @@ function Body(props) {
                         </div>
 
                         <div className="Quick_form">
-                            <h3><QUICK SEARCH</h3>
+                            <h3><QUICK SEARCH </h3>
                             <p>Tìm thông tin nơi bạn tham quan :</p>
                             <form className="flex justify-between" action="">
                                 <input
